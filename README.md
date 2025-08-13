@@ -1,6 +1,6 @@
 # TDS Data Analyst Agent
 
-A powerful, AI-driven data analyst that can answer complex questions by analyzing data from various sources. This agent can scrape websites, process uploaded files (like CSV), and even execute SQL queries on remote datasets, all driven by natural language.
+AI-driven data analyst that can answer complex questions by analyzing data from various sources. This agent can scrape websites, process uploaded files (like CSV), and execute SQL queries on remote datasets.
 
 ---
 
@@ -20,7 +20,7 @@ A powerful, AI-driven data analyst that can answer complex questions by analyzin
 ## Live Demo
 
 Try it live:  
-**https://tds-data-analyst-agent-1.onrender.com/**
+**[https://tds-data-analyst-agent-1.onrender.com/](https://tds-data-analyst-agent-6s1r.onrender.com/)**
 
 ---
 
@@ -43,8 +43,8 @@ Try it live:
 ### Installation
 
 ```
-git clone https://github.com/23f2000792/TDS_Data_Analyst_Agent.git
-cd TDS_Data_Analyst_Agent
+git clone https://github.com/Anvi-a1/tds_data_analyst_agent.git
+cd tds_data_analyst_agent
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
@@ -114,5 +114,3 @@ GROUP BY court;
 ```
 
 ---
-
-**🚀 Ready to revolutionize your data analysis workflow with AI!**
