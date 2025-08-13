@@ -20,7 +20,7 @@ AI-driven data analyst that can answer complex questions by analyzing data from 
 ## Live Demo
 
 Try it live:  
-**[https://tds-data-analyst-agent-1.onrender.com/](https://tds-data-analyst-agent-6s1r.onrender.com/)**
+**(https://tds-data-analyst-agent-6s1r.onrender.com/)**
 
 ---
 
