@@ -15,15 +15,6 @@ AI-driven data analyst that can answer complex questions by analyzing data from 
 - **Integrated Web Interface**: Simple frontend for uploading files and submitting queries.
 - **Deployment Ready**: Comes with a pre-configured Dockerfile—ideal for Render.
 
----
-
-## Live Demo
-
-Try it live:  
-**(https://tds-data-analyst-agent-6s1r.onrender.com/)**
-
----
-
 ## How It Works
 
 1. **FastAPI Backend**: Receives your natural language query and any uploaded files.
